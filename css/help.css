@@ -1,0 +1,6 @@
+.accWidget{
+    display:none;
+}
+.accWidget h2{
+    cursor:pointer;
+}
